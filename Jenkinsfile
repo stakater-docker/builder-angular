@@ -3,5 +3,5 @@
 
 pushDockerImage {
     dockerRepositoryURL = "docker.io"
-    imagePrefix = "7.0.7-node8.16-alpine"
+    imagePrefix = "8.0.2-node10.16-alpine"
 }
